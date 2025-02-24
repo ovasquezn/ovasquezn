@@ -4,9 +4,8 @@
 
 - 📍 **Based in:** Chile
 
-- 📍 **Based in:** Chile
-
-- 🌍 **Languages I speak:**  
+- 🌍 **Languages I speak:**
+  
   [![Spanish](https://img.shields.io/badge/Spanish-Native-%23ffcc00?style=for-the-badge)](https://en.wikipedia.org/wiki/Spanish_language)
   [![English](https://img.shields.io/badge/English-Advanced-%230077B5?style=for-the-badge)](https://en.wikipedia.org/wiki/English_language)
 
